@@ -1,6 +1,6 @@
-# Lineup Pro – Privacy Policy
+# CoachSkip – Privacy Policy
 
-This repo hosts the privacy policy for the **Lineup Pro** iOS app on GitHub Pages.
+This repo hosts the privacy policy for the **CoachSkip** iOS app on GitHub Pages.
 
 **Live URL:** https://jacobforcier.github.io/lineup-pro-privacy
 
